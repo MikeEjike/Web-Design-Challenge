@@ -2,7 +2,7 @@
 
 ## Background
 
-Data is more powerful when we share it with others! Used HTML and CSS to create a dashboard showing off the analysis done.
+Data is more powerful when we share it with others! Using HTML and CSS, create a dashboard showing off the analysis done.
 
 ![Images/landingResize.png](WebVisualizations/Images/landingResize.png)
 
