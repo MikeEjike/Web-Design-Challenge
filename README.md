@@ -45,7 +45,7 @@ Finally, the website must be deployed to GitHub pages.
 
 ### Screenshots
 
-This section contains screenshots of each page that must be built, at varying screen widths. These are a guide; you can meet the requirements without having the pages look exactly like the below images.
+This section contains screenshots of each page at varying screen widths.
 
 #### <a id="landing-page"></a>Landing page
 
@@ -80,8 +80,6 @@ Small screen:
 ![data page small screen](WebVisualizations/Images/data_sm.PNG)
 
 #### <a id="visualization-pages"></a>Visualization pages
-
-You'll build four of these, one for each visualization. Here's an example of one:
 
 Large screen:
 
