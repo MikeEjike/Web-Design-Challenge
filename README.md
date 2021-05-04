@@ -4,7 +4,7 @@
 
 Data is more powerful when we share it with others! Used HTML and CSS to create a dashboard showing off the analysis done.
 
-![Images/landingResize.png](WebVisualizations/Images/landingResize.PNG)
+![Images/landingResize.png](WebVisualizations/Images/landingResize.png)
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
@@ -51,33 +51,33 @@ This section contains screenshots of each page that must be built, at varying sc
 
 Large screen:
 
-![Landing page large screen](Images/landingResize.PNG)
+![Landing page large screen](WebVisualizations/Images/landingResize.png)
 
 Small screen:
 
-![Landing page small screen](WebVisualizations/Images/landing-sm.PNG)
+![Landing page small screen](WebVisualizations/Images/landing_sm.PNG)
 ￼
 
 #### <a id="comparisons-page"></a>Comparisons page
 
 Large screen:
 
-![comparison page large screen](WebVisualizations/Images/comparison-lg.PNG)
+![comparison page large screen](WebVisualizations/Images/comparison_lg.PNG)
 
 Small screen:
 
-![comparison page small screen](WebVisualizations/Images/comparison-sm.PNG)
+![comparison page small screen](WebVisualizations/Images/comparison_sm.PNG)
 
 #### <a id="data-page"></a>Data page
 
 Large screen:
 
-![data page large screen](WebVisualizations/Images/data-lg.PNG)
+![data page large screen](WebVisualizations/Images/data_lg.PNG)
 
 
 Small screen:
 
-![data page small screen](WebVisualizations/Images/data-sm.PNG)
+![data page small screen](WebVisualizations/Images/data_sm.PNG)
 
 #### <a id="visualization-pages"></a>Visualization pages
 
@@ -85,17 +85,17 @@ You'll build four of these, one for each visualization. Here's an example of one
 
 Large screen:
 
-![visualize page large screen](WebVisualizations/Images/visualize-lg.PNG)
+![visualize page large screen](WebVisualizations/Images/visualize_lg.PNG)
 
 Small screen:
 
-![visualize page small screen](WebVisualizations/Images/visualize-sm.PNG)
+![visualize page small screen](WebVisualizations/Images/visualize_sm.PNG)
 
 #### <a id="navigation-menu"></a>Navigation menu
 
 Large screen:
-![nav menu large screen](WebVisualizations/Images/nav-lg.PNG)
+![nav menu large screen](WebVisualizations/Images/nav_lg.PNG)
 
 Small screen:
-![nav menu small screen](WebVisualizations/Images/nav-sm.PNG)
+![nav menu small screen](WebVisualizations/Images/nav_sm.PNG)
 
